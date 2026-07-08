@@ -7,7 +7,7 @@ from feature_engineering import SalaryFeatureEngineer
 
 
 # Load complete pipeline
-model = joblib.load("final_model.pkl")
+model = joblib.load("final_salary_model.pkl")
 
 
 # -----------------------------
